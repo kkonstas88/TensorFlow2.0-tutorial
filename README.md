@@ -11,7 +11,7 @@ Table of Contents
 6.  [Numerical stability in TensorFlow](#stable)
 ---
 
-_We updated the guide to follow the newly released TensorFlow 2.x API. If you want the original guide for TensorFlow 1.x see the [v1 branch](https://github.com/vahidk/EffectiveTensorflow/tree/v1)._
+_We updated the guide to follow the newly released TensorFlow 2.x API. If you want the original guide for TensorFlow 1.x see the [v1 branch](https://github.com/kkonstas88/TensorFlow2.0-tutorial/tree/v1)._
 
 _To install TensorFlow 2.0 (alpha) follow the [instructions on the official website](https://www.tensorflow.org/install/pip):_
 ```
